@@ -21,3 +21,5 @@
 [icon集合](https://zhenquancai.notion.site/icon-c932acd573ac4dac971b09915b1989e1)
 
 [bundle插件](https://zhenquancai.notion.site/bundle-3fb99034f94a4bf8b3ba6b5b84e3ed4b)
+
+[web前端性能优化](https://zhenquancai.notion.site/web-26deb6a2687c4a51820c7c8528213bd7)
